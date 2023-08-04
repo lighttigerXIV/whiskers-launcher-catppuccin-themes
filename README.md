@@ -1,5 +1,5 @@
 # Catppuccin Themes - Simple Keyboard Launcher
-### Previews - Blue Example
+### Previews
 #### Latte
 ![image](https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/assets/35658492/22bf6fe6-68a1-4ef4-966e-b392ac6bbaca)
 #### Frappe
