@@ -1,10 +1,10 @@
 # Catppuccin Themes - Simple Keyboard Launcher
 ### Previews
 #### Latte
-![image](https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/latte/Latte-Blue.png)
+![image](previews/Latte.png)
 #### Frappe
-![image](https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/frappe/Frappe-Blue.png)
+![image](previews/Frappe.png)
 #### Macchiato
-![image](https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/Macchiato-Blue.png)
+![image](previews/Macchiato.png)
 #### Mocha
-![image](https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/mocha/Mocha-Blue.png)
+![image](previews/Mocha.png)
