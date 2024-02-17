@@ -1,4 +1,4 @@
-# Catppuccin Themes - Simple Keyboard Launcher
+# Catppuccin Themes - Whiskers Launcher
 ### Previews
 #### Latte
 ![image](previews/Latte.png)
